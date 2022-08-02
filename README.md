@@ -34,6 +34,7 @@ I am experienced with Modernizing Mainframe Technologies, Object Oriented Progra
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mmoore96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/michael-moore-733688135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
